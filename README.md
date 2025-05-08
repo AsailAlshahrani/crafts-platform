@@ -1,4 +1,3 @@
-﻿# crafts-platform
 # Crafts Platform
 
 A simple web platform designed to connect talented artisans with beneficiaries through profile showcases, training courses, and an admin management panel. Features include multi-role login (Admin, Artisan, Beneficiary), an Artisan dashboard to manage profiles and courses, course management with material uploads, file attachments for each course, and an Admin dashboard to manage users and content. The platform supports an Arabic RTL layout while also allowing English content. This project is simple and adaptable for further development.
